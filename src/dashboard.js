@@ -325,7 +325,6 @@ const PROFILE_CACHE_KEY = 'shms_profile_';
 const LATEST_CACHE_KEY = 'shms_latest_';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCpRHUlN-B2r9eTgwqgJxgCNx9N7EKLwFM",
   authDomain: "smart-health-monitoring-cd2dd.firebaseapp.com",
   databaseURL: "https://smart-health-monitoring-cd2dd-default-rtdb.asia-southeast1.firebasedatabase.app/",
   projectId: "smart-health-monitoring-cd2dd",
