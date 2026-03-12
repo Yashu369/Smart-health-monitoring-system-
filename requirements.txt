@@ -1,0 +1,5 @@
+firebase
+chart.js
+arduino-esp32
+max30102
+mlx90614
