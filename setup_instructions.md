@@ -6,4 +6,4 @@
 4 Upload ESP32 code\
 5 Configure Firebase\
 6 Open dashboard.html in browser\
-7 Monitor health data\
+7 Monitor health data
